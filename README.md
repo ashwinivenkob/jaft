@@ -1,0 +1,2 @@
+# jaft
+Java Automation Framework
